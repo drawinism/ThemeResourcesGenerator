@@ -12,3 +12,7 @@ Downloading the zip directly from Github you will get the .jar file and the Netb
 If you need the .jar file only you can get it <a href="https://mega.nz/#!AU4WUSyC">here</a>.
 
 The code is very simple and commented. I'm not a developer but I did my best. Feel free to improve it ;)
+
+#Note
+This tools is perfect if you use with appfilter.xml files generated with <a href="https://github.com/afollestad/polar-dashboard">Polar Dashboard</a>. These files has some strings at the top of the file that has some extra infos; the tool automaticcaly recognize and replace them with other strings needed by LG Home Launcher. Don't forget to edit them!
+If there are not these strings the tool won't add new strings.
